@@ -8,7 +8,7 @@ This is my personal website where I showcase my web development projects, share 
 - Contact page with my email address
 
 ## Usage
-Visit my website here: [https://yourusername.github.io/my-website](https://yourusername.github.io/my-website)
+Visit my website here: [https://sugriv.github.io/my-website](https://yourusername.github.io/my-website)
 
 ## Credits
 - Built using HTML, CSS, and JavaScript.
